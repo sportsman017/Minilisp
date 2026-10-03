@@ -1,4 +1,4 @@
-# Minilisp
+# How to run
 
 This is a minilisp interpreter build by lex and yacc. 
 
